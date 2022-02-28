@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/covid-test-kit-search/static/css/main.5129b42b.css",
+    "main.js": "/covid-test-kit-search/static/js/main.55bb0823.js",
+    "static/js/787.796b8db5.chunk.js": "/covid-test-kit-search/static/js/787.796b8db5.chunk.js",
+    "static/media/logo.svg": "/covid-test-kit-search/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/covid-test-kit-search/index.html",
+    "main.5129b42b.css.map": "/covid-test-kit-search/static/css/main.5129b42b.css.map",
+    "main.55bb0823.js.map": "/covid-test-kit-search/static/js/main.55bb0823.js.map",
+    "787.796b8db5.chunk.js.map": "/covid-test-kit-search/static/js/787.796b8db5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5129b42b.css",
+    "static/js/main.55bb0823.js"
+  ]
+}
