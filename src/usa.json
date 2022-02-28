@@ -1,0 +1,310 @@
+[
+  {
+    "manufacturer": "PHASE Scientific International, Ltd.",
+    "commercial_name": "INDICAID COVID-19 Rapid Antigen Test",
+    "attributes": "Lateral Flow, Visual Read, Serial Screening, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "ACON Laboratories, Inc",
+    "commercial_name": "Flowflex COVID-19 Antigen Home Test",
+    "attributes": "Lateral Flow, Visual Read, Over the Counter (OTC) Home Testing, Screening, Single Target",
+    "authorized_settings": "Home, H, M, W",
+    "authorization_documents": "HCP, IFU, IFU (Home Test)"
+  },
+  {
+    "manufacturer": "LumiraDx UK Ltd.",
+    "commercial_name": "LumiraDx SARS-CoV-2 Ag Test",
+    "attributes": "Microfluidic Immunofluorescence Assay, Instrument Read, Screening, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "DiaSorin, Inc.",
+    "commercial_name": "LIAISON SARS-CoV-2 Ag",
+    "attributes": "CLIA, Single Target",
+    "authorized_settings": "H, M",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "Siemens Healthineers",
+    "commercial_name": "CLINITEST Rapid COVID-19 Antigen Self-Test",
+    "attributes": "Lateral Flow, Visual Read, Over the Counter (OTC) Home Testing, Serial Screening, Single Target",
+    "authorized_settings": "Home, H, M, W",
+    "authorization_documents": "HCP, IFU, IFU (Home Test)"
+  },
+  {
+    "manufacturer": "Abbott Diagnostics Scarborough, Inc.",
+    "commercial_name": "BinaxNOW COVID-19 Ag Card",
+    "attributes": "Lateral Flow, Visual Read, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "Abbott Diagnostics Scarborough, Inc.",
+    "commercial_name": "BinaxNOW COVID-19 Ag Card Home Test",
+    "attributes": "Lateral Flow, Visual Read, Over the Counter (OTC) Home Testing, Telehealth Proctor Supervised, Single Target",
+    "authorized_settings": "Home, H, M, W",
+    "authorization_documents": "HCP, Individuals, IFU, IFU (Home Test)"
+  },
+  {
+    "manufacturer": "Abbott Diagnostics Scarborough, Inc.",
+    "commercial_name": "BinaxNOW COVID-19 Ag 2 Card",
+    "attributes": "Lateral Flow, Visual Read, Non-prescription Testing, Serial Screening, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "Nano-Ditech Corp.",
+    "commercial_name": "Nano-Check COVID-19 Antigen Test",
+    "attributes": "Lateral Flow, Visual Read, Serial Screening, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "OraSure Technologies, Inc.",
+    "commercial_name": "InteliSwab COVID-19 Rapid Test Rx",
+    "attributes": "Lateral Flow, Visual Read, Prescription Home Testing, Single Target",
+    "authorized_settings": "Home, H, M, W",
+    "authorization_documents": "HCP, IFU, IFU (Home Test)"
+  },
+  {
+    "manufacturer": "OraSure Technologies, Inc.",
+    "commercial_name": "InteliSwab COVID-19 Rapid Test",
+    "attributes": "Lateral Flow, Visual Read, Over the Counter (OTC) Home Testing, Serial Screening , Single Target",
+    "authorized_settings": "Home, H, M, W",
+    "authorization_documents": "HCP, Individuals, IFU, IFU (Home Test)"
+  },
+  {
+    "manufacturer": "OraSure Technologies, Inc.",
+    "commercial_name": "InteliSwab COVID-19 Rapid Test Pro",
+    "attributes": "Lateral Flow, Visual Read, Serial Screening , Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "InBios International Inc.",
+    "commercial_name": "SCoV-2 Ag Detect Rapid Self-Test",
+    "attributes": "Lateral Flow, Visual Read, Over the Counter (OTC) Home Testing, Serial Screening, Single Target",
+    "authorized_settings": "Home, H, M, W",
+    "authorization_documents": "HCP, IFU, IFU (Home Test)"
+  },
+  {
+    "manufacturer": "Access Bio, Inc.",
+    "commercial_name": "CareStart COVID-19 Antigen Home Test",
+    "attributes": "Lateral Flow, Visual Read, Over the Counter (OTC) Home Testing, Serial Screening, Single Target",
+    "authorized_settings": "Home, H, M, W",
+    "authorization_documents": "HCP, IFU, IFU (Home Test)"
+  },
+  {
+    "manufacturer": "Maxim Biomedical, Inc.",
+    "commercial_name": "MaximBio ClearDetect COVID-19 Antigen Home Test",
+    "attributes": "Lateral Flow, Visual Read, Over the Counter (OTC) Home Testing, Serial Screening, Single Target",
+    "authorized_settings": "Home, H, M, W",
+    "authorization_documents": "HCP, IFU, IFU (Home Test)"
+  },
+  {
+    "manufacturer": "iHealth Labs, Inc.",
+    "commercial_name": "iHealth COVID-19 Antigen Rapid Test Pro",
+    "attributes": "Lateral Flow, Visual Read, Serial Screening, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "Abbott Diagnostics Scarborough, Inc.",
+    "commercial_name": "BinaxNOW COVID-19 Antigen Self Test",
+    "attributes": "Lateral Flow, Visual Read, Over the Counter (OTC) Home Testing, Serial Screening, Single Target",
+    "authorized_settings": "Home, H, M, W",
+    "authorization_documents": "HCP, Individuals, IFU, IFU (Home Test)"
+  },
+  {
+    "manufacturer": "SD Biosensor, Inc.",
+    "commercial_name": "COVID-19 At-Home Test",
+    "attributes": "Lateral Flow, Visual Read, Over the Counter (OTC) Home Testing, Serial Screening, Single Target",
+    "authorized_settings": "Home, H, M, W",
+    "authorization_documents": "HCP, IFU, IFU (Home Test)"
+  },
+  {
+    "manufacturer": "iHealth Labs, Inc.",
+    "commercial_name": "iHealth COVID-19 Antigen Rapid Test",
+    "attributes": "Lateral Flow, Visual Read, Over the Counter (OTC) Home Testing, Serial Screening, Single Target",
+    "authorized_settings": "Home, H, M, W",
+    "authorization_documents": "HCP, IFU, IFU (Home Test)"
+  },
+  {
+    "manufacturer": "Quanterix Corporation",
+    "commercial_name": "Simoa SARS-CoV-2 N Protein Antigen Test",
+    "attributes": "Paramagnetic Microbead-based Immunoassay, Serial Screening, Saliva, Single Target",
+    "authorized_settings": "H, M",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "Salofa Oy",
+    "commercial_name": "Sienna-Clarity COVID-19 Antigen Rapid Test Cassette",
+    "attributes": "Lateral Flow, Visual Read, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "Becton, Dickinson and Company (BD)",
+    "commercial_name": "BD Veritor System for Rapid Detection of SARS-CoV-2",
+    "attributes": "Chromatographic Digital Immunoassay, Instrument Read, Serial Screening, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "Access Bio, Inc.",
+    "commercial_name": "CareStart COVID-19 Antigen test",
+    "attributes": "Lateral Flow, Visual Read, Serial Screening, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "Becton, Dickinson and Company (BD)",
+    "commercial_name": "BD Veritor At-Home COVID-19 Test",
+    "attributes": "Lateral Flow, Digital Read, Over the Counter (OTC) Home Testing, Serial Screening, Single Target",
+    "authorized_settings": "Home, H, M, W",
+    "authorization_documents": "HCP, Individuals, IFU, IFU (Home Test)"
+  },
+  {
+    "manufacturer": "GenBody Inc.",
+    "commercial_name": "GenBody COVID-19 Ag",
+    "attributes": "Lateral Flow, Visual Read, Serial Screening, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "Ortho Clinical Diagnostics, Inc.",
+    "commercial_name": "VITROS Immunodiagnostic Products SARS-CoV-2 Antigen Reagent Pack",
+    "attributes": "Chemiluminescence Immunoassay, Instrument Read, Single Target",
+    "authorized_settings": "H, M",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "Quidel Corporation",
+    "commercial_name": "QuickVue SARS Antigen Test",
+    "attributes": "Lateral Flow, Visual Read, Serial Screening, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "Princeton BioMeditech Corp.",
+    "commercial_name": "Status COVID-19/Flu A&B",
+    "attributes": "Lateral Flow, Visual Read, Multi-analyte, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "Celltrion USA, Inc.",
+    "commercial_name": "Celltrion DiaTrust COVID-19 Ag Home Test",
+    "attributes": "Lateral Flow, Visual Read, Over the Counter (OTC) Home Testing, Serial Screening, Multiple Targets",
+    "authorized_settings": "Home, H, M, W",
+    "authorization_documents": "HCP, IFU, IFU (Home Test)"
+  },
+  {
+    "manufacturer": "Quidel Corporation",
+    "commercial_name": "QuickVue At-Home OTC COVID-19 Test",
+    "attributes": "Lateral Flow, Visual Read, Over the Counter (OTC) Home Testing, Serial Screening, Single Target",
+    "authorized_settings": "Home, H, M, W",
+    "authorization_documents": "HCP, Individuals, IFU, IFU (Home Test)"
+  },
+  {
+    "manufacturer": "Xtrava Health",
+    "commercial_name": "SPERA COVID-19 Ag Test",
+    "attributes": "Lateral Flow, Visual Read, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "ANP Technologies, Inc",
+    "commercial_name": "NIDS COVID-19 Antigen Rapid Test Kit 09/24/2021",
+    "attributes": "Lateral Flow, Visual Read, Serial Screening, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "InBios International, Inc.",
+    "commercial_name": "SCoV-2 Ag Detect Rapid Test",
+    "attributes": "Lateral Flow, Visual Read, Serial Screening, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "Celltrion USA, Inc.",
+    "commercial_name": "Celltrion DiaTrust COVID-19 Ag Rapid Test",
+    "attributes": "Lateral Flow, Visual Read, Serial Screening, Multiple Targets",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "QIAGEN GmbH",
+    "commercial_name": "QIAreach SARS-CoV-2 Antigen",
+    "attributes": "Digital Lateral Flow, Fluorescence, Instrument Read, Single Target",
+    "authorized_settings": "H, M",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "Ellume Limited",
+    "commercial_name": "ellume.lab COVID Antigen Test",
+    "attributes": "Lateral Flow, Fluorescence, Instrument Read, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "Quidel Corporation",
+    "commercial_name": "Sofia SARS Antigen FIA",
+    "attributes": "Lateral Flow, Fluorescence, Instrument Read, Serial Screening, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "Qorvo Biotechnologies, LLC.",
+    "commercial_name": "Omnia SARS-CoV-2 Antigen Test",
+    "attributes": "Bulk Acoustic Wave (BAW) Biosensor, Instrument Read, Single Target",
+    "authorized_settings": "H, M",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "Becton, Dickinson and Company (BD)",
+    "commercial_name": "BD Veritor System for Rapid Detection of SARS-CoV-2 & Flu A+B",
+    "attributes": "Chromatographic Digital Immunoassay, Instrument Read, Multi-analyte, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU Viral Mutation Revision Letter - September 23, 2021"
+  },
+  {
+    "manufacturer": "Quidel Corporation",
+    "commercial_name": "QuickVue At-Home COVID-19 Test",
+    "attributes": "Lateral Flow, Visual Read, Prescription Home Testing, Single Target",
+    "authorized_settings": "Home, H, M, W",
+    "authorization_documents": "HCP, Patients, IFU, IFU (Home Test)"
+  },
+  {
+    "manufacturer": "Ellume Limited",
+    "commercial_name": "Ellume COVID-19 Home Test",
+    "attributes": "Lateral Flow, Fluorescence, Instrument Read, Over the Counter (OTC) Home Testing, Screening, Single Target",
+    "authorized_settings": "Home, H, M, W",
+    "authorization_documents": "HCP, IFU, IFU (Home Test), FAQ"
+  },
+  {
+    "manufacturer": "Luminostics, Inc.",
+    "commercial_name": "Clip COVID Rapid Antigen Test",
+    "attributes": "Lateral flow immunoluminescent assay, instrument read, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "Celltrion USA, Inc.",
+    "commercial_name": "Sampinute COVID-19 Antigen MIA",
+    "attributes": "Magnetic Force-assisted Electrochemical Sandwich Immunoassay (MESIA), Single Target",
+    "authorized_settings": "H, M",
+    "authorization_documents": "HCP, Patients, IFU"
+  },
+  {
+    "manufacturer": "Quidel Corporation",
+    "commercial_name": "Sofia 2 Flu + SARS Antigen FIA",
+    "attributes": "Lateral Flow, Fluorescence, Instrument Read, Multi-Analyte, Single Target",
+    "authorized_settings": "H, M, W",
+    "authorization_documents": "HCP, Patients, IFU"
+  }
+]

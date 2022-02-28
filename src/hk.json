@@ -1,0 +1,34 @@
+[
+  {
+    "manufacturer": "Abbott Rapid Diagnostics",
+    "commercial_name": "Panbio COVID-19 Antigen Self-Test"
+  },
+  {
+    "manufacturer": "AESKU.Diagnostics",
+    "commercial_name": "AESKU.RAPID SARS-CoV-2"
+  },
+  {
+    "manufacturer": "BGI",
+    "commercial_name": "SARS-CoV-2 Virus Antigen Detection Kit (colloidal gold method)"
+  },
+  {
+    "manufacturer": "Hangzhou AllTest Biotech, ALLTest",
+    "commercial_name": "SARS-CoV-2 Antigen Rapid Test (Nasal Swab)"
+  },
+  {
+    "manufacturer": "Hangzhou AllTest Biotech, FIATest",
+    "commercial_name": "COVID-19 Antigen Test Cassette (Nasopharyngeal Swab)"
+  },
+  {
+    "manufacturer": "Phase Scientific",
+    "commercial_name": "INDICAID COVID-19 Rapid Antigen Test"
+  },
+  {
+    "manufacturer": "SD Biosensor, Roche",
+    "commercial_name": "SARS-CoV-2 Rapid Antigen Test Nasal"
+  },
+  {
+    "manufacturer": "SD Biosensor, Roche",
+    "commercial_name": "SARS-CoV-2 Antigen Self Test Nasal"
+  }
+]
